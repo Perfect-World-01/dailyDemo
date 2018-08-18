@@ -1,5 +1,8 @@
+##添加忽略文件需要重设head，并选择忽略白色区域
 .idea
 
 *.iml
 
 **/target/**
+
+.gitignore
